@@ -6,4 +6,4 @@ This Project is split into two tasks:
 
 #Task 2
   a matlab application that demonstrates computer vision. The application is of a Tunnel monitiering system. 
-  To run please run script using Matlab
+  To run please run the task2.m script using Matlab
