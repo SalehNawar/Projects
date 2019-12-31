@@ -1,1 +1,1 @@
-This is a 3D Max project ofa scene containg a male human doing excersices in a gym.
+This is a 3D Max project of a scene containing a male human doing excersices in a gym.
