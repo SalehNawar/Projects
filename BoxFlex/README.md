@@ -1,6 +1,6 @@
 # ADPROC
 ADPROC Project (FlexBox)
-
+This is a Java project of a Box shopping software.
 ## Todo List
 - [x] Push code
 - [x] Fix price()
